@@ -1,5 +1,5 @@
 # Dashboard
-
+![Image Alt Text](https://github.com/Versha-sharma16/Swiggy-Restaurant-Data-Analysis-Excel-Dashboard/blob/92456e00dea33ee5fd79ef76548dc16db0d052c1/swiggy%20dashboard.png)
 ## Overview
 
 The dashboard provides a visual representation of the insights derived from the Swiggy dataset. It was built using Microsoft Excel charts and pivot tables to allow quick understanding of food ordering trends.
@@ -23,3 +23,4 @@ Pivot charts
 Data filters and slicers
 
 The dashboard allows users to quickly explore patterns in customer preferences, restaurant performance, and food pricing trends.
+
