@@ -46,3 +46,7 @@ Charts and Data Visualization
 4. Interactive Filtering with Slicers
 5. Dashboard Visualization
 6. Insight Generation
+
+## Dashboard
+![image alt](file:///C:/Users/Versha/Pictures/Screenshots/swiggy%20dashboard.png)
+
